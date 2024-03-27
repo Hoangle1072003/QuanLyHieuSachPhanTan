@@ -29,6 +29,7 @@ dependencies {
     api(libs.org.kordamp.ikonli.ikonli.swing)
     api(libs.org.kordamp.ikonli.ikonli.materialdesign.pack)
     api(libs.com.itextpdf.itextpdf)
+
 }
 
 group = "vn.N10_PTUD_v1"
